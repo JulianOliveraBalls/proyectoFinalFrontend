@@ -43,12 +43,6 @@ Este proyecto consiste en una aplicación web para la gestión de un menú de co
   - Generación dinámica de la grilla de productos y los totales en función de los datos almacenados.
   - Permite a los usuarios eliminar productos, actualizando tanto el DOM como `localStorage`.
 
-### 4. Realización del Proyecto
-
-- Este proyecto debe realizarse siguiendo los videos proporcionados en Colmena Tec.
-- Se pueden hacer variantes en el aspecto visual, pero todos los requisitos deben cumplirse.
-- La entrega es individual y se debe grabar un video mostrando el funcionamiento del programa.
-- El video debe ser subido a YouTube o Google Drive y el enlace debe incluirse en un archivo `.txt` junto con el proyecto.
 
 ## Instalación y Uso
 
